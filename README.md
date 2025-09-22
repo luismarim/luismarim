@@ -1,13 +1,10 @@
-# 👨‍💻 Desenvolvedor Full Stack
-
 <div align="center">
   
-**Que bom te ver aqui! 👋** 
+# 👨‍💻 Que bom te ver aqui! 👋
 
 </div>
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### **Principais Tecnologias**
