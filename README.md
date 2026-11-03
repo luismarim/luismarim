@@ -11,7 +11,6 @@
 
 `C#` `.NET` `ASP.NET Core` `React` `TypeScript` `SQL Server` `Azure`
 
----
 
 ## 📫 Como me encontrar?
 
