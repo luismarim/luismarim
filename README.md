@@ -22,5 +22,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="250" align="right">
-
----
