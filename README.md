@@ -13,17 +13,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luismarim&show_icons=true&theme=radical&hide_title=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luismarim&layout=compact&hide=html,css&theme=radical&hide_title=true)
-
-</div>
-
----
-
 ## 📫 Como me encontrar?
 
 <div align="center">
